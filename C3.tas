@@ -1,7 +1,7 @@
 # SmaerdNogylop
 # https://gamebanana.com/mods/150740
 
-RecordCount: 4080
+RecordCount: 4515
 
 console rmx2 orbittwz/smaerdnogylop/3-emityreve
    1
@@ -97,15 +97,14 @@ console rmx2 orbittwz/smaerdnogylop/3-emityreve
   18,U,X
   12,J
   12,K
-  12,R,J
-   3,R,K
-  25,R,Z
-   2
-  11,R,D,X
    5,R,J
-   2,R,K,G
-   4,R
-   9,R,D,X
+   3,J
+  10,R,J
+  14,R,Z
+   7,R,J
+  10,R
+   2,R,J
+  10,R,D,X
    1,R,J
    1,R
   40
@@ -268,7 +267,7 @@ console rmx2 orbittwz/smaerdnogylop/3-emityreve
    7,R,D
   40
 
-#lvl_future_9
+#lvl_future_9 (0)
   14,R,Z
   15,R,J
    1,J
@@ -291,7 +290,7 @@ console rmx2 orbittwz/smaerdnogylop/3-emityreve
    4,R
   40
 
-#lvl_future_11
+#lvl_future_11 (0)
    9,R
   15,R,D,X
    9,R,J
@@ -309,7 +308,7 @@ console rmx2 orbittwz/smaerdnogylop/3-emityreve
    6,L,Z
   40
 
-#lvl_future_9
+#lvl_future_9 (1)
    1,L
    8,L,J
   24,L,D
@@ -355,7 +354,7 @@ console rmx2 orbittwz/smaerdnogylop/3-emityreve
    2,R,J
   40
 
-#lvl_future_11
+#lvl_future_11 (1)
   20,R,J
   30,R,U,X
    1
@@ -375,7 +374,7 @@ console rmx2 orbittwz/smaerdnogylop/3-emityreve
    3,L
   40
 
-#lvl_future_9
+#lvl_future_9 (2)
    4,L
   21,L,J
   15,L,U,X
@@ -408,7 +407,7 @@ console rmx2 orbittwz/smaerdnogylop/3-emityreve
    3,R
   40
 
-#lvl_future_11
+#lvl_future_11 (2)
    4,R
    7,R,D,J
    1
@@ -424,7 +423,7 @@ console rmx2 orbittwz/smaerdnogylop/3-emityreve
    6,L,U,X
   40
 
-#lvl_future_9
+#lvl_future_9 (3)
    9,R
   12,R,J,G
    3,K,G
@@ -436,36 +435,46 @@ console rmx2 orbittwz/smaerdnogylop/3-emityreve
    1,K
    3,R,K
    8,R,J,G
-  55,L,K
-   4,L,D
-  15,L,J
+  63,L,K
+  12,L,D
+   1,L
+  10,L,Z
+  12,L,J
+  15,L,K
+  10,L,J
+   5,J
+  15,L,K
+   1,J,G
+   2,R,J
    1,K
-   4,R,K
-   1,J
-   9,R,J
-  22,D
-   2,R,D
-  20,L,D
-  13,L,X
-  19,L,J
-  10,L,K
-   9,K
-   9,L,J
-   3,J
-   8,K
+  10,R,K
   29,L,K
-   1,J
-  26,L,J
-  18,L,G
-  33,R,K
-  16,L,J
-   1,J
-Repeat,12
-  11,R,K
-  11,L,J
+   2,J,G
+   1,L,J
+   3,L,G
+  38,G
+  10,U,G
+   1
+   1,K
+  18,L,K
+   2,L
+   6
+   1,R
+  20,R,J
+   1,K
+  10,R,K
+   2,K
+Repeat,9
+  12,L,J
+  12,R,K
 EndRepeat
-   1,K,G
-   2,R,K
+  11,R,K
+   4,J,G
+   2,L,J
+  11,L,K
+  10,L,J,G
+   2,R,J
+   1,K
   40
 
 #lvl_future_12
@@ -905,21 +914,23 @@ EndRepeat
 
 #lvl_futureB_11
    4,L
-  26,L,J
-  15,L,X
-   2,L,J,G
-  10,L,Z
-  20,L,J
-  15,U,X
-  14,U,C
+   2,L,J
+   5,L
+  14,L,U,Z
+   1,R,J,G
+   7,L,J
+   3,L
+  12,L,D,X
+  10,L,J
+  17,L,U,X
+  17,U,C
+   2,L,J
   40
 
 #lvl_futureB_12
-   1,R,J,G
-   3,L,J
-   3,L
+   5,L
    1,R,J
-   3,L,J
+   5,R
   10,R,X
    7,R,J
    2,R
@@ -1319,4 +1330,4 @@ EndRepeat
   13,R,D,X
   13,R,J,G
  149,R,U,X
-ChapterTime: 3:27.723(12219)
+ChapterTime: 3:26.958(12174)

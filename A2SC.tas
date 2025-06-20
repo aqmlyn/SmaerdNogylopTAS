@@ -1,7 +1,7 @@
 # SmaerdNogylop
 # https://gamebanana.com/mods/150740
 
-RecordCount: 4079
+RecordCount: 4745
 
 console load orbittwz/smaerdnogylop/2-selbuortemoh
    1
@@ -561,9 +561,7 @@ console load orbittwz/smaerdnogylop/2-selbuortemoh
 
 #lvl_26
    1,R
-   6,R,J
-
-   4,R,J
+  10,R,J
   15,R
   15,R,U,X
   32,R,D
@@ -608,6 +606,7 @@ console load orbittwz/smaerdnogylop/2-selbuortemoh
    6,R
   40
 
+#lvl_23
    3,R
    2,R,K
   15,R,D,X
@@ -762,102 +761,97 @@ console load orbittwz/smaerdnogylop/2-selbuortemoh
    2,L
    1,L,K,G
    7,L
-  15,U,X
-   1,R,J,G
-  10,J
+   6,J
+   5,L,J
+  14,U,X
   40
 
 #lvl_25
-   1,J,G
-   7,R,J,G
-   3,J
-  10,R,D,X
-   8,R,J
-   1,R,K,G
-   6,R
-   8,R,J,G
-   7,R,K,G
-   1,R
-   8,R,J
-  24,R,U,X
-   9,R,Z
-   2,R,J
+   8,L,K
+   1,K
+   7,R,K
+   2,K
+   1,L,J,G
+   1,R,J
    1,J
    1,R,J
-  14,R
-   5,R,J
-   7,R,K,G
-   1,R
-   7,R,J
-  14,L,D,X
-  19,R,J
-  16,R,U,X
-  15,R,J,G
+   1,J
+   3,R,J
+   1,L,J
   11,K,G
-   1,L,K
-  14,R,J,G
-   8,R,K,G
-   1,J,G
-   2,R,J
-   2,J
-   1,L,J
-   7,L,K
-   4,L
-   1,J,G
-   3,L
-   4
-   5,R
-   4,L,Z
-   1,L,J
-   6,L
-  26,L,J
-  30,L,U,X
-   4,L,K,G
-   2,L
+   1,R,K
+   2,L,K
    1,L,J,G
-   7,L
-   4,L,Z
-   1,L,J
-   8,L
-   4,L,D
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-  47,L,U,G
-   2,L,J,G
-  16,L,K,G
-  16,U,Z
-   9,R,J
+   1,L,K,G
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+  10,J
+   2,R,J
+   1
+   1,K
+   5,R,K
+   5,R
+   1,R,K
+   7,R
+   1
+  15,U,Z
+   2,R
+   1
+   1,R
+   1
+  37,L,J
+  10,L,X
+   6,L,K
+   4,K
+   1,J
+   5,R,J
+  16,U,X
+  19,R,K
+  11,J,G
+   1,K,G
+   4,L,K
   40
 
 #lvl_38
-  18,R
-   9,U,X
-   2,R,J
-  12,J
    1
-   2,R
-   1,R,K,G
-   6,R,J,G
-   1,R
-   9,R,J
-  10,R
-  11,R,J
-   7,R
-   4,R,J
-   4,J
-   4
-   9,R,X
+   6,R
    1,R,J,G
-  16,R,D
-  10,R,X
-   1,R,J
+  20,R,K,G
+  12,J,G
+  10,K,G
+   3,L,K
+   5,R,X
+  12,R,J,G
+   2
+   5,R
+   9,R,K
+   1,R
+   4,R,J,G
+   5,R
+   4
+   1,J
+  10,R,D,X
+   1,K
    2,R
-  11,R,J,G
-  15,U,Z
-   9,L,J
+   3
+   1,K
+   5
+  10,D
+  10,R,D
+  15,U,X
+   1,R
+   6
+   2,L
+   1,R
+  11,R,J
+  16,U,X
+  14,L,K
   40
 
 #lvl_40
@@ -940,26 +934,59 @@ console load orbittwz/smaerdnogylop/2-selbuortemoh
    3,L,K
    1,L,J,G
    1,J
-   7,L
-   4,L,J
-  22,L,U,X
-  26,R
+
+   5,L
+   2
+   7,R,X
+   9,R,K
+  11,R
+   7
+  33,R
+  32,R,X
+   1,J,G
+   7,R
+   6,R,K
+   4,K
+  17,U,X
+   3,L,J
+   7,R,J
+  27,R,D
+  16,D
+   3,R,D
+  14,L,Z
+  29,L,K
+  14,L,X
+   6,L,J,G
+   5,L
+   1,L,J
+  16,L
+   4,L,K
+  15,L,U,X
+   5,L,U,C
+  22,R
   15,U,X
-  18,R,K
-   6,L,J
+   2,R
+   1
+  19,L,J
   40
 
 #lvl_41
-  13,L
-  15,L,U,X
-   9,L
+
+   2,L
+   1,L,K,G
+   7,L,J,G
+   1
+  14,L,U,X
+   1,L,K,G
+   1,R,K
+   7,L
    5,L,J
   15,L,D,X
   14,L,D,C
    1,L,J
-  14,L,Z
+  15,L,Z
   15,U,V
-   5,R
+   4,R
   18,R,J
    5,K,G
    5,L,K
@@ -981,45 +1008,85 @@ console load orbittwz/smaerdnogylop/2-selbuortemoh
    5,L,J
   13,L,U,X
    2,L,J,G
-  12,L
-   1,L,J
-  13,U,X
-  15,R,J
+  14,K,G
+   5,J,G
+   2
+   1,K,G
+   4
+   2,L
+   1,R
+  11,R,D,J
+   8,U,X
   40
 
 #lvl_42
-   1,J,G
-   2
-   8,L,K
-   7,L
-  22,L,J
-   1,L,K,G
-   2,R,K
-   1,L,K
-   2
-   1,L,J,G
-  26,L,K,G
-  20,R,J
-  15,U,X
-  19,L,J
-   4,K,G
+   5,R
+  30,L,K
+  12,L,J,G
+   5,L
+   2,L,J
+   5,L
+  31,L,K,G
+   1,R
+   5,J,G
+   7,L,J
+   1,L
    1
-   2,R
-  16,R,K
+   3,L
+   6,L,J
+   2,L
+   1,R
+   7,K,G
+   6,L,K
+  18,L,J,G
+   4,K,G
+   1,L,K
+   1,K
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+   1,K
+  11,R,K
+   5,R
+   6,R,K
+   3,R
+  48,R,J
+   1,K
+  17,R,K
    1,R,J,G
-   3,L,J
-   2,R,J
+   2,L,J
+   1,J
+   1
+   1,R,K,G
    7,R
   12,R,J
-  11,R,Z
-  13,L,J
-  14,L,U,X
-   1,R,J,G
-  15,L,J
-   4,L,K,G
+   5,R
+   4,R,J
+   3,R
+   2
+   6,K,G
+   6,L,K
+  12,J
+   6,K,G
+   2,J,G
+   5,R,J
+  15,U,X
+  31,L,D
+   1,L
+   2,L,D
+   3,L
+   4,C
+  11,L,K
    7,L
-  12,L,K
-   1,J,G
+   4,Z
+   1,L,J
+   8,L,D
+   4,L,D,K
+   1,J
+   1,K
+   7,L,K
+   3,K
    6,L,Z
    3,L,J
    2,L,K,G
@@ -1033,9 +1100,15 @@ console load orbittwz/smaerdnogylop/2-selbuortemoh
   12,R,K,G
    9,R,J,G
    1,R
-   1,L,K
-   7,L,J
-   7,L
+   1,K
+   1,J
+   6,L,J
+   1
+   1,L
+   1
+   1,L
+   1
+   2,L
    4,L,Z
    1,L,J
    6,L
@@ -1043,18 +1116,29 @@ console load orbittwz/smaerdnogylop/2-selbuortemoh
    3,L
   15,L,D,X
   10,L
-   8,L,J
-  15,L,D,X
-  33,L
-   5,L,J
-   1,L
-  15,L,D,X
-  10,R,D
+  17,L,J
+  14,L,U,X
+   1,L,K,G
+   4,R,K
+   1
+   1,L,J,G
+   7,L
+   4,Z
+   1,L,K
+   6,L
+   6,L,J
+  14,L
+  15,L,U,X
+  15,D,C
+  57,D
   40
 
 #lvl_15
    1,R,D
   13,R,D,X
+##
+
+## Opposition
    3,L,J
   14,L,D,X
    1,L,J
@@ -1093,46 +1177,102 @@ console load orbittwz/smaerdnogylop/2-selbuortemoh
    7,L,U,X
    1,L,J,G
   10,L
-   2,L,J
+
+   2,L,K
   40
 
-#lvl_12
+   8,L,K
+   5,L
+   2,L,K
    1,L
    6,L,J
-   4,L,D
-  15,D,X
-  20,L,D
-   1,D
-   4,J
-   1
-   3,J
-   2
-  15,D,X
-   5,L,D
+   2,L
+   3
+   7,J
+   6,K,G
+   4,R,K
+  14,R,D,X
+   1,R,J
+  15,R,D,X
+  33,D
+   1,K
+   4,R
+   6
+  18,D,C
    1,L,J
-  11,L,D,X
-  16,R,D
+  15,L,D,X
+  12,R,D
   40
 
 #lvl_11
-   5,R,D
+  11,R,D
+   1,R,K
+  23,R,D
+  28,L,D
+  23,D
+  12,L,D
+  24,L
+  12,L,K,G
+   1,J,G
+   7,L,J
+   3,J
+   1,R,J
+  12,K
+  12,J
+   4,K
+   1,J
+   2,L,J
+   1,R,J
+   8,J
+   8,K,G
+   1,L,K
+   1,J
+  11,L,J
+  10,K
+   1,R,K
+   1,L,K
+   8,J,G
+   7,K,G
+   2,L,K
+   1,R,K
+   2,K
+   6,J,G
+  11,K,G
+   2,L,K
+   1,J
+  10,L,J
+   4,J
+   1,K
+   4,L,K
+  13,U,X
+   3,L,J
+   5,J
+  55,R,D
+  14,D
+  12,R,D
+   7,D
+   7
+   1,D
+   1
+   1,K
+   1,R,K
+   5,R
+   3,R,K
+   1,J
+   1,K
+   9,R,K
+  19,R
+  10,R,D
+   4,D
+   2,R,D
+   5,R
+   1
    1,R
+   1,G
    3,R,J,G
-   3,R
-  15,R,D,X
-  27,L,D
-  34,D
-   4,L,D
-   2,D
-   1,L,D
-  11,D
-   9,R,D
-   2,D
-   3,R,D
-   3,R,J,G
-   3,R
-  12,R,D,X
-  11,L,D
+   2,R
+  16,R,D,X
+   7,L,D
   40
 
 #lvl_10
@@ -1276,26 +1416,60 @@ console load orbittwz/smaerdnogylop/2-selbuortemoh
   40
 
 #lvl_09 (1)
-   3,L
+
+   3,L,D,X
+   2,L,J
+  14,L,D,X
+  13,L,J
+   1,L,K,G
+   1
+  24,L,J,G
+   1,L
+   4,K,G
+   1,L,K
+   1,K
+   1,L,K
+   1,R,K
+  12,J
+   1,K
+  19,L,K
+   6,J
+   5,R,K,G
+   3,K
+  11,J,G
    1,L,J
-  10,L,D
-  15,D,X
-  18,R,D
-  19,D
+   8,K
+  15
+   8,R,D
+   4,R
+   1,R,D
+  23,R
+  10,R,D
+   5,R
+   5,R,X
+   4,R,J,G
+   5,R
+   3,R,J
+  55,R,D
+   1,R,K
+   6,R
+  12,D,X
   40
 
 #lvl_08
-  12,D
+  13,D
    7,L,D
    9,D
    6,R,D
   12,D
   14,R,D
   15,D
-   5,L,D
-  11,L
+   7,L,D
+   9,L
    3,L,D
-  18,R,D
+  16,R,D
+   1,L,D
+   2,D
    8,L,D
   40
 
@@ -1364,87 +1538,132 @@ console load orbittwz/smaerdnogylop/2-selbuortemoh
    1,R,J
   12,R,D
   15,D,X
-  93,R,D
+  28,R,D
+#cycle_07
+  61
+#endcycle_07
   11,L
    1,L,J
    1,L
   18,L,J
   14,R,Z
    1,R,J
-  10,R,D,X
+   5,R,D,X
+   1,R,K
+   7,R
+   1,R,J
   40
 
 #lvl_06
-   4,R
-   2,R,J
-   4,R
-  20,R,D,X
-   1,R,J
-   4,R
-  15,R,D,C
-   3,R
-   3,R,J
-  10,R
-   8,R,D
-  17,R,D,X
-   2,D
-   1,J
-   2
-   1,R
-  13,R,D,X
-  40
-
-#lvl_05 (0)
-   5,R,D
-   4,R,J
-   6,R
    6,R,J
-   7,R
-   9,R,U,Z
-   8,R,J,G
-  19,R,D
-   1,J
-   1,R
-  15,R,D,X
-  14,R,D
-  12,L,D
+  23,R,D,X
+   1,R,K
+  16,R,D,X
+   3,R
+   2,R,D
+   7,R,D,J
+   4,J
+   4,L,K,G
+   2,L
+  15,R,U,X
+   3
+   2,R
+  14
+   3,L
+   4,L,D
+  19,D
+  14,R,D,X
+   1,R,J
+  10,R,D,X
   40
 
-#lvl_05 (1)
-  10,D
-  45,L,D
-  14,L,D,X
-   1,L,J
+#lvl_05
+   6,R,D
+   1,R,K
+   9,R
+   2,R,K
+   8,R
+  13,R,U,Z
+   8,R,J,G
+  19,R
+   2,R,K
+  15,R,D,X
+  26,D
+  40
+
+#lvl_04
+  13,D
+  36,L,D
+  13,L,D,X
+
+   3,L,J
+   1,J
+  46,R,D
+  15,R,Z
+   5
+   7,K
+   1,J
+   1,K
+   1,L,K
+   1,K
+   1,J
+   1,K,G
+   1,R,K
+   1,R,J,G
+  12,R,K,G
+   5,R
+   4,R,K
+  13,R
+   1,J
+  13,R
+   4,X
+  11,L,D,X
+  60,L
+  63,L,D
+  60
+   1,O
+  30
+   4,L,D
+   6,R,D
+   5,D
+  16,U,X
+   3,L,J
+   2,R,J
+  19,L,J
+  11,U,X
+  26,L,K
+  12,J,G
+  12,K,G
+   6,J,G
+   1,R,J
+   1,L
+  12,L,K,G
    7,L
-   4,L,J
-   8,L,D,X
-   2,L,J,G
-   9,L
+   6,L,Z
+   1,L,J
+   5,L
   40
 
 #lvl_03
-   4,L
-   1,L,J
+   2,L
+   1,L,K
   14,L,D,X
-   7,L,J
-   2,L,K,G
-   6,J,G
-   3,L,D
-   7,D
-  30,L,D
-   6,L
-  19,L,X
-   2
-   1,L,J,G
+   1,L,J
+  10,L,D,X
+   3,L,K
+  10,L,J,G
+  15,D
+  14,L,D
+  23,L
+   1
+  17,L,X
    3,L,K,G
    1,L,J,G
-  24,L,K,G
-  12,L
-   4,L,D
+  41,L,K,G
    4,L,X
    2,L,J
-   5,L
-   3
+   7,L
+   1
    2,J
   13,U,X
    8,L,J
@@ -1501,4 +1720,4 @@ console load orbittwz/smaerdnogylop/2-selbuortemoh
   18
 ##
 
-ChapterTime: 3:15.942(11526)
+ChapterTime: 3:40.541(12973)

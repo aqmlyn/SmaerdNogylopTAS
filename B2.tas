@@ -1,7 +1,7 @@
 # SmaerdNogylop
 # https://gamebanana.com/mods/150740
 
-RecordCount: 4103
+RecordCount: 4374
 
 console hard orbittwz/smaerdnogylop/2-selbuortemoh
    1
@@ -201,24 +201,16 @@ console hard orbittwz/smaerdnogylop/2-selbuortemoh
    9,L,K
    5,L
    1,L,J,G
-  14,L,D
+  15,L,D
   15,D,X
-   7,L,D
-  34,R,D
-   1,D
-   1,R,D
+   5,R,D
+   9,L,D
+  20,R,D
+   2,D
+  14,R,Z
    1,R,J
-   1,R,K,G
-   7,R,J,G
-   2,R
-   1
-   5,R,Z
-   1,R,J
-   4,R
-   1
-   1,R
+   7,R
   14,R,J
-   1,R
    3,R,K,G
    9,R
   27,D,X
@@ -369,7 +361,7 @@ console hard orbittwz/smaerdnogylop/2-selbuortemoh
    2,L
   40
 
-#lvl_b24
+#lvl_b23
    5,L
    1,L,J
   14,L,D,X
@@ -560,27 +552,25 @@ console hard orbittwz/smaerdnogylop/2-selbuortemoh
   14,R,D,C
    1,R,J
    7,R
-  14,R,D,X
-   1,R,J
-  12,R,D
-  15,D,X
-  15,R,D
-  13,L,D
-   9,R,D
+  11,R,D,X
+   5,R,J
+   4,R,D
+  18,L,D
+  16,R,D
    2,D
-   8,L,D
-   4,J
-   1,L,J
-   2,L
+   4,R,D
+  14,L,D
+   5,D
+   1,R,D
+   4,R
+   1,R,D
    5,L,Z
-  10,L,K,G
+   8,L,K,G
    1,L
    6,L,K
    1,R,K
    6,J,G
   17,L,J
-#1:11.519(4207)
-
    1,L,K,G
    2,R,K
    7,L
@@ -595,19 +585,25 @@ console hard orbittwz/smaerdnogylop/2-selbuortemoh
   12,L,J
   15,D,X
   20,L,D
-  17,D
-   5,J
+  10,D
+   5
+   2,D
+   2,J
    4
+   1,R,K,G
+   2
   15,D,X
-   6,R
-   4,R,Z
+   5,R,D
+   4,Z
    1,R,J
    7,R
-   1,R,J
+   1,R,K
   10,R
   13,R,U,X
-   1,J,G
-  49,R,D
+   1,R,J,G
+  20,R,D
+  23,D
+   6,R,D
    2,R,J,G
    1,R
    1,R,J
@@ -627,7 +623,8 @@ console hard orbittwz/smaerdnogylop/2-selbuortemoh
    2,R
    2,L
    1,R,G
-  21,R,J,G
+  16,R,J,G
+   5,R,D
   13,L,D,X
    1,R
    1,J,G
@@ -639,14 +636,16 @@ console hard orbittwz/smaerdnogylop/2-selbuortemoh
    1
    1,L
    9,R,D
+
    1,R
-   3,R,J
-  10,L,D,X
+   4,Z
+   1,L,K
+   2
+   1,K
+   2,L,K
    1,L,J
-   1,J
-   6,L,J
-   2,K,G
-   9,L,K
+   3,J
+  12,L,J
   14,L,U,Z
    4,K,G
    3,L,K
@@ -657,13 +656,18 @@ console hard orbittwz/smaerdnogylop/2-selbuortemoh
    1,L,K
    1,R,K
    1,J,G
-  11,L,J
+  10,L,J
+   1,R,J
+   1,L,J
    1,R,J
    1,K,G
    1,L,K
-   3,R,K
-   4,R,J,G
-   7,R
+   2,R,K
+   1,R,J,G
+   1,R
+   3,R,K,G
+   3
+   4,R
    9,L,X
    6,L,K
    7,L
@@ -1253,33 +1257,22 @@ EndRepeat
    9,L,J
    1,L
    2,L,K,G
-  11,L,D
-   2,D
-   2,L,D
-   1,D
-   1,L,D
-  14,L,D,X
-   1
-   1,J
-   1,K,G
-   2,L,K
-   2,L,J,G
-   2,J
+  13,L,D
+   5,L,U,X
+   1,R,J,G
+  18,L,J
   40
 
 #lvl_b08
-   4,K
-   2,L,K
-   1,L
-   7,L,J,G
-  11,L,D
-  15,D,X
-   7,L,D
+   1,L,D
+  26,L,D,X
+  11,D,C
   40
 
 #lvl_b07
-   8,L,D
-   3,L
+   9,L,D
+   2,L
+   1,L,D
    3,L,J,G
    3,L
   15,L,D,X
@@ -1597,4 +1590,4 @@ EndRepeat
   38,R,D,X
  101,D
 
-ChapterTime: 3:11.947(11291)
+ChapterTime: 3:11.284(11252)

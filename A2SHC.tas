@@ -1,7 +1,7 @@
 # SmaerdNogylop
 # https://gamebanana.com/mods/150740
 
-RecordCount: 4745
+RecordCount: 4799
 
 console load orbittwz/smaerdnogylop/2-selbuortemoh
    1
@@ -1276,29 +1276,32 @@ console load orbittwz/smaerdnogylop/2-selbuortemoh
   40
 
 #lvl_10
-   5,L,D
-  15,R,D
-   3,L,D
-   2,R
-   1,L
-  10,R,D,X
-   1,L,J
-  18,L,D
-  12,L,X
-  14,L,J
+  35,L,D
+  22,L,X
+   4,L,C
+  11,L,J
+   3,L
    1,K,G
-   2,L,D
-   1,R,D
-  67,L,D
-  11,D
-   2,L,D
+  17,L,D
+  18,R,D
+   2,D
+   2,R
+   2,D
+   2,R,D
+  25,L,D
+  10,D
+   1,L
+   1
+   1,L
+   1
+   1,L
   10,U,X
    5,L,J
    9,R,J
    3,R
-   2,R,K,G
+   1,R,K,G
    7,R
-  10,R,Z
+  11,R,D,X
   17,R,J
   15,U,X
    9,L,J
@@ -1720,4 +1723,4 @@ console load orbittwz/smaerdnogylop/2-selbuortemoh
   18
 ##
 
-ChapterTime: 3:40.541(12973)
+ChapterTime: 3:40.439(12967)

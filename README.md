@@ -1,7 +1,7 @@
 # Smaerd Nogylop TAS Project
 
 This repository contains TAS files for the mod [Smaerd Nogylop](https://gamebanana.com/mods/150740) for the video game [Celeste](celestegame.com). 
-The mod is a copy of the mod [Polygon Dreams](https://gamebanana.com/mods/150729) where each level is designed to be played backwards. Polygon Dreams has a separate TAS project for which the files are located [here](https://github.com/ella-TAS/ella-TAS/tree/main/Polygon-Dreams).
+The mod is based on [Polygon Dreams](https://gamebanana.com/mods/150729) and modifies each level to be playable backwards, sometimes with a few small tweaks to existing rooms but often with completely replaced or new rooms. Polygon Dreams has a separate TAS project for which the files are located [here](https://github.com/ella-TAS/ella-TAS/tree/main/Polygon-Dreams).
 
 ## About
 
@@ -29,8 +29,8 @@ To run a TAS file on your PC, follow these steps:
 Dependencies for all Celeste TAS projects:
  - the game [Celeste](celestegame.com) and modloader [Everest](https://everestapi.github.io/)
  - the mod [CelesteTAS](https://gamebanana.com/tools/6715)
-Dependencies for this project:
- - current patch of the mod [Smaerd Nogylop](https://gamebanana.com/mods/150740) (v6.2.1 as of 2025 June 18) and its required dependencies
+Dependencies for this project (last checked 2025 June 18):
+ - current patch of the mod [Smaerd Nogylop](https://gamebanana.com/mods/150740) (v6.2.1, released 2023 April 23) and its required dependencies
 
 ## Contributing
 

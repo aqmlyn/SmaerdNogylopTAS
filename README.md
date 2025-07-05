@@ -29,6 +29,7 @@ To run a TAS file on your PC, follow these steps:
 Dependencies for all Celeste TAS projects:
  - the game [Celeste](celestegame.com) and modloader [Everest](https://everestapi.github.io/)
  - the mod [CelesteTAS](https://gamebanana.com/tools/6715)
+
 Dependencies for this project (last checked 2025 June 18):
  - current patch of the mod [Smaerd Nogylop](https://gamebanana.com/mods/150740) (v6.2.1, released 2023 April 23) and its required dependencies
 

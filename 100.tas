@@ -1,0 +1,39 @@
+read StartFullGameFile
+unsafe
+
+read A1SHC Start
+read LoadA
+read A2SHC Start
+read LoadA
+read A3SHC Start
+read LoadA
+read A4SHC Start
+unsafe
+read Load1B
+
+read B1 Start
+read LoadB
+read B2 Start
+read LoadB
+read B3 Start
+read LoadB
+read B4 Start
+read Load1C
+
+read C1 Start
+read LoadC
+read C2 Start
+read LoadC
+read C3 Start
+read LoadC
+read C4 Start
+  59
+   1,J
+ 196
+ 164
+   1,J
+  83
+   1,S
+read LoadJournal
+
+FileTime: 33:22.787(117811)

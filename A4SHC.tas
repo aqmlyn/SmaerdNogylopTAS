@@ -1,10 +1,13 @@
 # SmaerdNogylop
 # https://gamebanana.com/mods/150740
 
-RecordCount: 6199
+RecordCount: 6201
 
 console load orbittwz/smaerdnogylop/4-yraidraed
    1
+
+# disable the golden
+Set Session.Deaths 1
 
 #Start
 ## Start
@@ -2333,10 +2336,10 @@ Read,Menu/EnterLevel
   15,R
   38,R,D,C
   42,D,X
-  57
+  58
    1,S
    1,U,J
   32,O
 ##
 
-MidwayFileTime: 4:54.304(17312)
+MidwayFileTime: 4:54.321(17313)

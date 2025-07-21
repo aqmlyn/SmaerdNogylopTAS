@@ -1,0 +1,8 @@
+# Hover the Start checkpoint of the next A-Side, expecting that a further checkpoint has been unlocked.
+Read,CloseChapter
+unsafe
+   1,R
+Read,ChangeChapter
+safe
+Read,OpenChapter
+Read,OpenCheckpoints

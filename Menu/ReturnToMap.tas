@@ -1,0 +1,6 @@
+Assert Equal Celeste.Level {Engine.Scene}
+Assert Equal True {Level.CanPause}
+   1,S
+   1,U,J
+  32,O
+Read,SkipTally

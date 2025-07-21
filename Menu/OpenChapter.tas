@@ -1,0 +1,9 @@
+# Press confirm on the hovered chapter to open its chapter panel.
+Assert Equal Celeste.Overworld {Engine.Scene}
+Assert Equal Celeste.OuiChapterSelect {Engine.Scene.Current}
+Assert Equal False {Engine.Scene.Current.disableInput}
+#Assert Equal True [[return getValue(Monocle.Engine.Scene.Current, "inputDelay") <= 0]]
+unsafe
+   1,O
+  21
+safe

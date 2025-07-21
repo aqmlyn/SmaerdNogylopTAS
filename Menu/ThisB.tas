@@ -1,0 +1,6 @@
+# Return to Map from in-game, then hover the chapter's B-Side.
+Read,ReturnToMap
+Assert Equal True {Engine.Scene.Current.RealStats.BSide}
+unsafe
+   1,R
+safe

@@ -1,0 +1,5 @@
+# On chapter select, just after pressing a direction to show a different levelset, wait for the UI transition.
+Assert Equal Celeste.Overworld {Engine.Scene}
+Assert Equal Celeste.OuiChapterSelect {Engine.Scene.Next}
+  26
+Assert Equal Celeste.OuiChapterSelect {Engine.Scene.Current}

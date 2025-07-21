@@ -1,0 +1,7 @@
+# Hover over the Start checkpoint of this chapter's B-Side, assuming a further checkpoint has been unlocked.
+Read,ReturnToMap
+Assert Equal True {Engine.Scene.Current.RealStats.BSide}
+unsafe
+   1,R
+safe
+Read,OpenCheckpoints

@@ -1,0 +1,11 @@
+# Select the hovered chapter panel option, expecting it to enter a level.
+Assert Equal Celeste.Overworld {Engine.Scene}
+Assert Equal Celeste.OuiChapterPanel {Engine.Scene.Current}
+#Assert Equal False [[return getValue(Monocle.Engine.Scene.Current, "selectingMode") and Celeste.SaveData.Instance.FoundAnyCheckpoints(Monocle.Engine.Scene.Current.Area)]]
+unsafe
+   1,O
+  46
+Add 1
+safe
+#WithIntro
+Assert Equal Celeste.Level {Engine.Scene}

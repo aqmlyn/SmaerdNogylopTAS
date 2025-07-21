@@ -1,0 +1,12 @@
+# Select the hovered chapter panel option, expecting it to display overworld dialogue (e.g. vanilla prologue and 8A), then enter a level.
+Assert Equal Celeste.Overworld {Engine.Scene}
+Assert Equal Celeste.OuiChapterPanel {Engine.Scene.Current}
+unsafe
+   1,O
+  45
+   1,S
+   1,D,O
+  32
+Add 1
+safe
+Assert Equal Celeste.Level {Engine.Scene}

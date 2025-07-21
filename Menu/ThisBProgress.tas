@@ -1,0 +1,10 @@
+# After unlocking both this non-interlude chapter's B-Side and the next chapter, hover this chapter's B-Side.
+Read,Progress
+unsafe
+   1,L
+Read,ChangeChapter
+safe
+Read,OpenChapter
+unsafe
+   1,R
+safe

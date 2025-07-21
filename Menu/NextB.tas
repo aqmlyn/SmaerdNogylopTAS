@@ -1,0 +1,12 @@
+# Hover the previously unlocked next chapter's B-Side.
+Read,CloseChapter
+unsafe
+   1,R
+Read,ChangeChapter
+safe
+Read,OpenChapter
+unsafe
+   1,R
+safe
+#NoCheckpoints
+Read,OpenCheckpoints

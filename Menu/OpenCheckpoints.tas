@@ -1,0 +1,9 @@
+# Press confirm on the hovered chapter panel option, expecting it to open another panel displaying a level's checkpoints.
+Assert Equal Celeste.Overworld {Engine.Scene}
+Assert Equal Celeste.OuiChapterPanel {Engine.Scene.Current}
+Assert Equal True {Engine.Scene.Current.selectingMode}
+#Assert Equal True [[return Celeste.SaveData.Instance.FoundAnyCheckpoints(Monocle.Engine.Scene.Current.Area)]]
+unsafe
+   1,O
+  30
+safe

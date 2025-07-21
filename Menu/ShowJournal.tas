@@ -1,0 +1,13 @@
+# From chapter select, show the journal.
+Assert Equal Celeste.Overworld {Engine.Scene}
+Assert Equal Celeste.OuiChapterSelect {Engine.Scene.Current}
+Assert Equal False {Engine.Scene.Current.disableInput}
+#Assert Equal True [[return getValue(Monocle.Engine.Scene.Current, "inputDelay") <= 0]]
+unsafe
+   1,N
+  30
+   1,R
+ 300
+   1,R
+ 300
+safe

@@ -1,0 +1,8 @@
+# After pressing the bind to skip a level stat tally, wait for the progress animation to play.
+Assert Equal Celeste.Overworld {Engine.Scene}
+Assert Equal Celeste.OuiChapterSelect {Engine.Scene.Current}
+Assert Equal True {Engine.Scene.Current.autoAdvancing}
+unsafe
+ 194
+safe
+Assert Equal False {Engine.Scene.Current.autoAdvancing}

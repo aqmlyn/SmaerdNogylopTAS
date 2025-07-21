@@ -1,0 +1,6 @@
+# On chapter select, just after pressing a direction to hover a different chapter, wait for the input cooldown.
+Assert Equal Celeste.Overworld {Engine.Scene}
+Assert Equal Celeste.OuiChapterSelect {Engine.Scene.Current}
+Assert Equal False {Engine.Scene.Current.disableInput}
+Assert Equal 0.15 {Engine.Scene.Current.inputDelay}
+   9

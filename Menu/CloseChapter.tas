@@ -1,0 +1,9 @@
+# Press cancel to close the chapter panel.
+Assert Equal Celeste.Overworld {Engine.Scene}
+Assert Equal Celeste.OuiChapterPanel {Engine.Scene.Current}
+Assert Equal True {Engine.Scene.Current.selectingMode}
+unsafe
+   1,X
+  42
+safe
+   

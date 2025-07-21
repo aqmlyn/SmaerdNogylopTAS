@@ -1,0 +1,9 @@
+# Select the hovered chapter panel option, expecting it to display remix info (e.g. vanilla B-Sides), then enter a level.
+Read,EnterLevel,0,WithIntro
+Assert Equal Celeste.LevelEnter {Engine.Scene}
+Assert Equal AreaMode.BSide {Engine.Scene.session.Area.Mode}
+unsafe
+ 258
+Add 1
+safe
+Assert Equal Celeste.Level {Engine.Scene}

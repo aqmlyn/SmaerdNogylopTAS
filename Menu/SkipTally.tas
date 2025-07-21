@@ -1,0 +1,6 @@
+Assert Equal Celeste.Overworld {Engine.Scene}
+Assert Equal Celeste.OuiChapterPanel {Engine.Scene.Current}
+unsafe
+  51
+   1,S
+safe
